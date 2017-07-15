@@ -1,0 +1,19 @@
+{
+  "name": "webdev-summer-2017-testapp",
+  "version": "1.0.0",
+  "description": "MEAN Stack Application hosted on Hiroku",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GavinMichael/webdev-summer-2017-testapp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GavinMichael/webdev-summer-2017-testapp/issues"
+  },
+  "homepage": "https://github.com/GavinMichael/webdev-summer-2017-testapp#readme"
+}
