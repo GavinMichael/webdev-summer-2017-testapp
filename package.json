@@ -1,19 +1,18 @@
 {
-  "name": "webdev-summer-2017-testapp",
+  "name": "web-dev",
   "version": "1.0.0",
-  "description": "MEAN Stack Application hosted on Hiroku",
-  "main": "index.js",
+  "description": "Web Dev at Northeastern University",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "express": "^4.13.4",
+    "mongoose": "^4.4.15"
+  },
+  "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/GavinMichael/webdev-summer-2017-testapp.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/GavinMichael/webdev-summer-2017-testapp/issues"
-  },
-  "homepage": "https://github.com/GavinMichael/webdev-summer-2017-testapp#readme"
+  "author": "Jose G. Annunziato",
+  "license": "ISC"
 }
